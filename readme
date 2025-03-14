@@ -1,0 +1,59 @@
+Orvion Dynamics AI-Powered Object Detection System
+Overview
+This software, developed by Orvion Dynamics, is a proprietary AI-powered object detection and navigation assistance system. It is designed for real-time object recognition with voice feedback, optimized for low-end hardware while maintaining high accuracy.
+
+This software is NOT OPEN SOURCE and requires a PAID LICENSE for every installation. Unauthorized use, modification, distribution, or resale is strictly prohibited and will be subject to legal enforcement.
+
+Features
+✔ Real-time object detection using YOLOv8-Nano
+✔ Voice feedback for navigation assistance
+✔ Optimized for low-end laptops and Raspberry Pi 5
+✔ Grid-based object memory for smarter decisions
+✔ Lightweight, efficient, and scalable
+
+System Requirements
+OS: Windows 10/11, Linux (Ubuntu, Debian)
+Hardware:
+Processor: Intel i3 or higher
+RAM: 4GB minimum
+Camera: USB Webcam or Pi Camera
+Dependencies (automatically installed via requirements.txt):
+OpenCV
+PyTorch
+YOLOv8
+Pyttsx3
+NumPy
+Installation
+Purchase a License
+Contact Orvion Dynamics to obtain a valid license before installation.
+
+Download and Install Dependencies
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Run the Program
+
+bash
+Copy
+Edit
+python main.py
+Licensing and Legal Notice
+This software is proprietary and legally protected under Intellectual Property Laws. Every installation requires a separate paid license obtained from Orvion Dynamics.
+
+Strict Legal Conditions
+By installing or using this software, you agree to the following terms:
+
+Commercial License Required – Each user or distributor must purchase a license.
+No Unauthorized Distribution – You CANNOT share, modify, or resell this software.
+No Reverse Engineering – Any attempt to decompile, hack, or extract the software will be met with legal action.
+Strict License Enforcement – Unauthorized use will result in financial penalties and legal prosecution.
+One License Per Installation – The software cannot be installed on multiple devices using the same license.
+Legal Consequences of Violation
+Failure to comply with these terms constitutes intellectual property theft and will be pursued under the following:
+
+Copyright Act Violations – Up to ₱1,000,000 in fines and criminal charges.
+Unauthorized Distribution Penalties – Each illegal distribution incurs a ₱500,000 fine per instance.
+Civil Lawsuits – Orvion Dynamics reserves the right to file lawsuits for damages.
+Orvion Dynamics will actively monitor, investigate, and take legal action against any unauthorized use.
